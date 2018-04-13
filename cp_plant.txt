@@ -75,3 +75,18 @@ Chiller3
 |   |   input:      [234, 0]
 |   start_cost:     200
 |   ramp_rate:      1284.2
+
+ColdThermalStorage
+|   size:               98130 kW
+|   size_liter:         7570820
+|   t_cold:             5.5556
+|   t_hot:              16.6667
+|   fill_rate:          7570820
+|   fill_rate_perc:     20
+|   disch_rate:         7570820
+|   disch_rate_perc:    20
+|   self_discharge:     0.0017
+|   charge_eff:         0.95
+|   discharge_eff:      0.95
+|   ramp_rate:          19626
+|   buffer:             10
